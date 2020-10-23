@@ -4,4 +4,5 @@ OLÁ! Bem vindo ao meu livro de receitas :wave:
 
 - Strogonoffe de frango
 - Pavê
+- Bolo de cenoura
 
